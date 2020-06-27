@@ -1,0 +1,4 @@
+C:\Users\Blake Ishoy\Desktop\C# Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\BlakeIshoyAlgorithms.csprojAssemblyReference.cache
+C:\Users\Blake Ishoy\Desktop\C# Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\BlakeIshoyAlgorithms.AssemblyInfoInputs.cache
+C:\Users\Blake Ishoy\Desktop\C# Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\BlakeIshoyAlgorithms.AssemblyInfo.cs
+C:\Users\Blake Ishoy\Desktop\C# Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\BlakeIshoyAlgorithms.csproj.CoreCompileInputs.cache
