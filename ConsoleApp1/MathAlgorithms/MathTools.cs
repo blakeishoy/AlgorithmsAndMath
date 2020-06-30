@@ -69,5 +69,19 @@ namespace BlakeIshoyAlgorithms.MathAlgorithms
             if (calc == 0) { calc = 1; }
             return LoopedFactorial(n) / LoopedFactorial(calc);
         }
+
+        public static int EuclidGreatestCommonDenominator(int A, int B)
+        {
+            
+            if (A != 0 && B != 0)
+            {
+                var remainder = A % B;
+                return EuclidGreatestCommonDenominator(B, remainder);
+            }
+            else
+            {
+                return A;
+            }
+        }
     }
 }

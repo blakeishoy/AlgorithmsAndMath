@@ -2,3 +2,16 @@ C:\Users\Blake Ishoy\Desktop\C# Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcorea
 C:\Users\Blake Ishoy\Desktop\C# Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\BlakeIshoyAlgorithms.AssemblyInfoInputs.cache
 C:\Users\Blake Ishoy\Desktop\C# Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\BlakeIshoyAlgorithms.AssemblyInfo.cs
 C:\Users\Blake Ishoy\Desktop\C# Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\BlakeIshoyAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Blake Ishoy\Desktop\C# Repos\BlakeIshoyPersonalCodeRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\BlakeIshoyAlgorithms.csprojAssemblyReference.cache
+C:\Users\Blake Ishoy\Desktop\C# Repos\BlakeIshoyPersonalCodeRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\BlakeIshoyAlgorithms.AssemblyInfoInputs.cache
+C:\Users\Blake Ishoy\Desktop\C# Repos\BlakeIshoyPersonalCodeRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\BlakeIshoyAlgorithms.AssemblyInfo.cs
+C:\Users\Blake Ishoy\Desktop\C# Repos\BlakeIshoyPersonalCodeRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\BlakeIshoyAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Blake Ishoy\Desktop\C# Repos\BlakeIshoyPersonalCodeRepository\ConsoleApp1\bin\Debug\netcoreapp3.1\BlakeIshoyAlgorithms.exe
+C:\Users\Blake Ishoy\Desktop\C# Repos\BlakeIshoyPersonalCodeRepository\ConsoleApp1\bin\Debug\netcoreapp3.1\BlakeIshoyAlgorithms.deps.json
+C:\Users\Blake Ishoy\Desktop\C# Repos\BlakeIshoyPersonalCodeRepository\ConsoleApp1\bin\Debug\netcoreapp3.1\BlakeIshoyAlgorithms.runtimeconfig.json
+C:\Users\Blake Ishoy\Desktop\C# Repos\BlakeIshoyPersonalCodeRepository\ConsoleApp1\bin\Debug\netcoreapp3.1\BlakeIshoyAlgorithms.runtimeconfig.dev.json
+C:\Users\Blake Ishoy\Desktop\C# Repos\BlakeIshoyPersonalCodeRepository\ConsoleApp1\bin\Debug\netcoreapp3.1\BlakeIshoyAlgorithms.dll
+C:\Users\Blake Ishoy\Desktop\C# Repos\BlakeIshoyPersonalCodeRepository\ConsoleApp1\bin\Debug\netcoreapp3.1\BlakeIshoyAlgorithms.pdb
+C:\Users\Blake Ishoy\Desktop\C# Repos\BlakeIshoyPersonalCodeRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\BlakeIshoyAlgorithms.dll
+C:\Users\Blake Ishoy\Desktop\C# Repos\BlakeIshoyPersonalCodeRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\BlakeIshoyAlgorithms.pdb
+C:\Users\Blake Ishoy\Desktop\C# Repos\BlakeIshoyPersonalCodeRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\BlakeIshoyAlgorithms.genruntimeconfig.cache

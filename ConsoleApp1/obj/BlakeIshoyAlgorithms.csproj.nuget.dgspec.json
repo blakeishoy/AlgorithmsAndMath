@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Blake Ishoy\\Desktop\\C# Repos\\ConsoleApp1\\ConsoleApp1\\BlakeIshoyAlgorithms.csproj": {}
+    "C:\\Users\\Blake Ishoy\\Desktop\\C# Repos\\BlakeIshoyPersonalCodeRepository\\ConsoleApp1\\BlakeIshoyAlgorithms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Blake Ishoy\\Desktop\\C# Repos\\ConsoleApp1\\ConsoleApp1\\BlakeIshoyAlgorithms.csproj": {
+    "C:\\Users\\Blake Ishoy\\Desktop\\C# Repos\\BlakeIshoyPersonalCodeRepository\\ConsoleApp1\\BlakeIshoyAlgorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Blake Ishoy\\Desktop\\C# Repos\\ConsoleApp1\\ConsoleApp1\\BlakeIshoyAlgorithms.csproj",
+        "projectUniqueName": "C:\\Users\\Blake Ishoy\\Desktop\\C# Repos\\BlakeIshoyPersonalCodeRepository\\ConsoleApp1\\BlakeIshoyAlgorithms.csproj",
         "projectName": "BlakeIshoyAlgorithms",
-        "projectPath": "C:\\Users\\Blake Ishoy\\Desktop\\C# Repos\\ConsoleApp1\\ConsoleApp1\\BlakeIshoyAlgorithms.csproj",
+        "projectPath": "C:\\Users\\Blake Ishoy\\Desktop\\C# Repos\\BlakeIshoyPersonalCodeRepository\\ConsoleApp1\\BlakeIshoyAlgorithms.csproj",
         "packagesPath": "C:\\Users\\Blake Ishoy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Blake Ishoy\\Desktop\\C# Repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Blake Ishoy\\Desktop\\C# Repos\\BlakeIshoyPersonalCodeRepository\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Blake Ishoy\\AppData\\Roaming\\NuGet\\NuGet.Config",

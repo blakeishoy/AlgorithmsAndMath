@@ -11,7 +11,7 @@ namespace BlakeIshoyAlgorithms.CodingSiteProblems.LeetCodeProblems
     /// Input: [1,2,3]
     /// Output: [ [1,2,3], [1,3,2], [2,1,3], [2,3,1], [3,1,2], [3,2,1] ]
     /// </summary>
-    public class Problem46Permutations : ICodingProblem<List<List<int>>>
+    public class Problem46Permutations : ICodingProblem<IList<IList<int>>>
     {
         public IList<IList<int>> Execute()
         {
@@ -46,9 +46,17 @@ namespace BlakeIshoyAlgorithms.CodingSiteProblems.LeetCodeProblems
             return result;
         }
 
-        public static List<List<int>> PermuteProcedurally(int[] num)
+        public static List<List<int>> PermuteProcedurally(int[] nums)
         {
+            var times = MathTools.PermutationCalc(nums.Length, nums.ToList().Distinct().Count());
+            var result = new List<List<int>>();
+            for (int i = 0; i < times; i++)
+            {
+                var sample = new int[] { };
+                //sample
+            }
 
+            return result;
         }
     }
 }
