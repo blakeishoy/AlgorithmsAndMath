@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BlakeIshoyAlgorithms.Utility;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics.Tracing;
 using System.Linq;
@@ -7,15 +8,25 @@ using System.Text.RegularExpressions;
 
 namespace BlakeIshoyAlgorithms.CodingSiteProblems.LeetCodeProblems
 {
-    public class Problem1282PeopleGroup : ICodingProblem<IList<IList<int>>>
+    public class Problem1282PeopleGroup : ICodingProblem
     {
-        // [0,1,2], [3,4,6], [5], [7,9], [8,10,12,13], [9,14]
-        public IList<IList<int>> Execute()
+        // [0,1,2], [3,4,6], [5], [7,9], [8,10,12,13], [11,14]
+        public bool Execute()
         {
-            return GroupThePeople2(new int[] { 3, 3, 3, 3, 3, 1, 3, 2, 4, 2, 4, 5, 4, 4, 5 });
+            var input = new int[] { 3, 3, 3, 3, 3, 1, 3, 2, 4, 2, 4, 5, 4, 4, 5 };
+            var result = GroupThePeople(input);
+            var compare = new List<List<int>>() {
+                new List<int>() {0, 1, 2},
+                new List<int>() {3, 4, 6},
+                new List<int>() {5},
+                new List<int>() {7,9},
+                new List<int>() {8,10,12,13},
+                new List<int>() {11,14}
+            };
+            return ListOfListComparer.Compare(result, compare);
         }
 
-        public IList<IList<int>> GroupThePeople2(int[] groupSizes)
+        public IList<IList<int>> GroupThePeople(int[] groupSizes)
         {
             if (groupSizes.Length < 1 || groupSizes.Length > 500)
             {

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using BlakeIshoyAlgorithms.MathAlgorithms;
+using BlakeIshoyAlgorithms.Utility;
 
 namespace BlakeIshoyAlgorithms.CodingSiteProblems.LeetCodeProblems
 {
@@ -11,11 +12,21 @@ namespace BlakeIshoyAlgorithms.CodingSiteProblems.LeetCodeProblems
     /// Input: [1,2,3]
     /// Output: [ [1,2,3], [1,3,2], [2,1,3], [2,3,1], [3,1,2], [3,2,1] ]
     /// </summary>
-    public class Problem46Permutations : ICodingProblem<IList<IList<int>>>
+    public class Problem46Permutations : ICodingProblem
     {
-        public IList<IList<int>> Execute()
+        public bool Execute()
         {
-            return PermuteRandomly(new int[] { 1, 2, 3 });
+            var input = new int[] { 1, 2, 3 };
+            var result = PermuteRandomly(input);
+            var compare = new List<List<int>>() {
+                new List<int>() {1,2,3},
+                new List<int>() {1,3,2},
+                new List<int>() {2,1,3},
+                new List<int>() {2,3,1},
+                new List<int>() {3,1,3},
+                new List<int>() {3,2,1}
+            };
+            return ListOfListComparer.Compare(result, compare);
         }
 
         public static IList<IList<int>> PermuteRandomly(int[] nums)

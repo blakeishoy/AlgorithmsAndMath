@@ -13,6 +13,8 @@ namespace BlakeIshoyAlgorithms.Data_Structures
         public BinaryNode(int value)
         {
             this.Value = value;
+            this.LeftChild = null;
+            this.RightChild = null;
         }
 
     }

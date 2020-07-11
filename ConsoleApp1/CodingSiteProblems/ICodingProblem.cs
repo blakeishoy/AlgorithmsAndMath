@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BlakeIshoyAlgorithms.CodingSiteProblems
+﻿namespace BlakeIshoyAlgorithms.CodingSiteProblems
 {
-    public interface ICodingProblem<T>
+    public interface ICodingProblem
     {
-        public T Execute();
+        public bool Execute();
     }
 }
